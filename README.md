@@ -7,7 +7,7 @@ Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant
 Love to learn new things, to create, travel, read and eat. 
 
 
-🌱 I’m currently doing a FullStack course.
+🌱 I’m currently doing a FullStack course.<br/>
 ⚙️ Mastering: .react,.next.js,.html,.css,.js,.ts
 💬 Speaks spanish, english and german.
 
