@@ -8,8 +8,11 @@ Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant
 
 
 Things I love aside of coding.<br/>
+<br/>
 -Enjoy trying to learn something new every day,<br/>
+<br/>
 -Travel, <br/>
+<br/>
 -Read <br/>
 -Anything Food related. <br/>
 
