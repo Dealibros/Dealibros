@@ -2,9 +2,9 @@
 
 <H3>Welcome to my Github portfolio! </H3> 
 
-FrontEnd Web Developer, fascinated by everything that's CSS related. 
+I am a FrontEnd Web Developer, based in Vienna. 
 
-Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant technologies.
+Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that's CSS related), PostgreSQL and other relevant technologies.
 
 <hr/>
 
@@ -18,6 +18,7 @@ Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant
 
 -Anything Food related. <br/>
 
+<hr/>
 
 🌱 I’m currently doing a FullStack course.<br/>
 <br/>
