@@ -2,10 +2,11 @@
 
 <H3>Welcome to my Github portfolio! </H3> 
 
-FrontEnd Web Developer, Fascinated by everything that's CSS related. 
+FrontEnd Web Developer, fascinated by everything that's CSS related. 
 
 Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant technologies.
 
+<hr/>
 
 Things I love aside of coding.<br/>
 <br/>
