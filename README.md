@@ -8,7 +8,7 @@ Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that
 
 <hr/>
 
-<H3>Things I love doing when I am not coding.</H3><br/>
+<H3>Things I love doing when I am not coding.</H3>
 
 -Enjoy trying to learn something new every day,<br/>
 
@@ -17,6 +17,7 @@ Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that
 -Read <br/>
 
 -Anything Food related. <br/>
+<br/>
 
 <hr/>
 
@@ -28,7 +29,7 @@ Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that
 
 📬 Get in Touch
 E-mail: dealibros88@gmail.com
-
+<br/>
 <h3>Technologies I'm familiar with:</h3>
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=next.js&logoColor=white" />
