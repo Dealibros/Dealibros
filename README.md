@@ -1,6 +1,7 @@
-Hello, I'm Andrea (Dea) 👋
+<h2>Hello, I'm Andrea (Dea) 👋 <h2/>
 
-FrontEnd Web Developer. Fascinated by everything that's CSS related. 
+FrontEnd Web Developer, Fascinated by everything that's CSS related. 
+
 Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant technologies.
 
 
