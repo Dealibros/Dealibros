@@ -7,7 +7,11 @@ FrontEnd Web Developer, Fascinated by everything that's CSS related.
 Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant technologies.
 
 
-Love to learn new things, to create, travel, read and eat. 
+Things I love aside of coding.
+-Enjoy trying to learn something new every day,
+-Travel, 
+-Read 
+-Anything Food related. 
 
 
 🌱 I’m currently doing a FullStack course.<br/>
