@@ -30,6 +30,7 @@ Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything tha
 📬 Get in Touch
 E-mail: dealibros88@gmail.com
 <br/>
+<br/>
 <h3>Technologies I'm familiar with:</h3>
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=next.js&logoColor=white" />
