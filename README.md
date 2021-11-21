@@ -1,6 +1,6 @@
 <h2>Hello, I'm Andrea (Dea) 👋 </h2>
 
-<H§>Welcome to my Github portfolio! </H§> 
+<H3>Welcome to my Github portfolio! </H3> 
 
 FrontEnd Web Developer, Fascinated by everything that's CSS related. 
 
