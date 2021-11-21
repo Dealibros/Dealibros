@@ -10,13 +10,13 @@ Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that
 
 <H3>Things I love doing when I am not coding.</H3>
 
--Enjoy trying to learn something new every day,<br/>
+- Enjoy trying to learn something new every day,<br/>
 
--Travel, <br/>
+- Travel, <br/>
 
--Read <br/>
+- Read <br/>
 
--Anything that's Food related. <br/>
+- Anything that's Food related. <br/>
 
 
 <hr/>
