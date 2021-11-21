@@ -1,6 +1,6 @@
 <h2>Hello, I'm Andrea (Dea) 👋 </h2>
 
-<p>Welcome to my Github portfolio! </p> 
+<H§>Welcome to my Github portfolio! </H§> 
 
 FrontEnd Web Developer, Fascinated by everything that's CSS related. 
 
@@ -10,10 +10,11 @@ Working with React, Next.js,JavaScript, HTML5/CSS, PostgreSQL and other relevant
 Things I love aside of coding.<br/>
 <br/>
 -Enjoy trying to learn something new every day,<br/>
-<br/>
+
 -Travel, <br/>
-<br/>
+
 -Read <br/>
+
 -Anything Food related. <br/>
 
 
