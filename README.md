@@ -1,4 +1,4 @@
-<h2>Hello, I'm Andrea (Dea) 👋 <h2/>
+<h2>Hello, I'm Andrea (Dea) 👋 </h2>
 
 FrontEnd Web Developer, Fascinated by everything that's CSS related. 
 
