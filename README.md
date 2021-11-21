@@ -16,8 +16,8 @@ Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that
 
 -Read <br/>
 
--Anything Food related. <br/>
-<br/>
+-Anything that's Food related. <br/>
+
 
 <hr/>
 
