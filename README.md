@@ -14,7 +14,7 @@ Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything tha
 
 - Travel, <br/>
 
-- To read anything I find thats history, culture and anthropology, psychology related. <br/>
+- To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
 
 - Anything that's Food related. <br/>
 
