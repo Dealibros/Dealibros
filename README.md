@@ -9,7 +9,9 @@ Love to learn new things, to create, travel, read and eat.
 
 
 🌱 I’m currently doing a FullStack course.<br/>
-⚙️ Mastering: .react,.next.js,.html,.css,.js,.ts <br/>
+<br/>
+⚙️ Mastering: .react,.next.js,.html,.css,.js,.ts <br
+<br/>                                                     
 💬 Speaks spanish, english and german.
 
 📬 Get in Touch
