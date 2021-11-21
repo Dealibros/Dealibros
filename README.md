@@ -4,7 +4,7 @@
 
 I am a FrontEnd Web Developer, based in Vienna. 
 
-Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that's CSS related), PostgreSQL and other relevant technologies.
+Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything that's CSS related), PostgreSQL and other relevant technologies.
 
 <hr/>
 
@@ -23,7 +23,7 @@ Working with React, Next.js,JavaScript, HTML5/CSS (fascinated by everything that
 
 🌱 I’m currently doing a FullStack course.<br/>
 <br/>
-⚙️ Mastering: .react,.next.js,.html,.css,.js,.ts <br
+⚙️ Mastering: .react, .next. js, .html, .css, .js, .ts <br
 <br/>                                                     
 💬 Speaks spanish, english and german.
 
