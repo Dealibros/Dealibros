@@ -33,6 +33,15 @@ E-mail: dealibros88@gmail.com
 <br/>
 
 <h3>Technologies I'm familiar with:</h3>
+
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
