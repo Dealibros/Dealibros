@@ -12,11 +12,12 @@ Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything tha
 
 - 🎓 Enjoy trying to learn something new every day,<br/>
 
-- Travel, <br/>
+- :airplane: Travel, <br/>
 
 - ✍️ To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
 
-- Anything that's Food related. <br/>
+- :watermelon: Anything that's food related. <br/>
+
 
 
 <hr/>
