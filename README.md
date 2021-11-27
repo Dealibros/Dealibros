@@ -10,11 +10,11 @@ Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything tha
 
 <H3>Things I love doing when I am not coding.</H3>
 
-- Enjoy trying to learn something new every day,<br/>
+- 🎓 Enjoy trying to learn something new every day,<br/>
 
 - Travel, <br/>
 
-- To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
+- ✍️ To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
 
 - Anything that's Food related. <br/>
 
