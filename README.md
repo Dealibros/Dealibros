@@ -24,7 +24,7 @@ Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything tha
 
 🌱 I’m currently doing a FullStack course.<br/>
 <br/>
-⚙️ Mastering: .react, .next. js, .html, .css, .js, .ts <br
+⚙️ Mastering: .react, .next. js, .html, .css, .js, .ts 
 <br/>                                                     
 💬 Speaks spanish, english and german.
 
