@@ -4,11 +4,8 @@
 
 Expanding my knowledge as a developer. I am currently based in Vienna. 
 <br/>
-
 Learning and improving my skills in HTML5/CSS, JavaScript, React, Next.js, PostgreSQL and other relevant technologies.
-
 <br/>
-
 Started recently learning Python and I have to say that I am enjoying it really much.
 
 <hr/>
