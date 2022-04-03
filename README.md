@@ -3,6 +3,7 @@
 <H3>Welcome to my Github portfolio! </H3> 
 
 Expanding my knowledge as a developer. I am currently based in Vienna. 
+<br/>
 
 Learning and improving my skills in HTML5/CSS, JavaScript, React, Next.js, PostgreSQL and other relevant technologies.
 
