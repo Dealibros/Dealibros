@@ -2,7 +2,7 @@
 
 <H3>Welcome to my Github portfolio! </H3> 
 
-Expanding my knowledge as a developer. I am currently based in Vienna. 
+<h4>Expanding my knowledge as a developer. I am currently based in Vienna.</h4>
 
 <br/>
 
