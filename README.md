@@ -17,7 +17,7 @@ Started recently learning Python and I have to say that I am enjoying it really 
 
 - :airplane: To travel, <br/>
 
-- ✍️ To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
+- ✍️ To read anything connected to history, culture, anthropology or psychology. <br/>
 
 - :watermelon: Anything that's food related. <br/>
 
