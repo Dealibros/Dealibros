@@ -2,9 +2,10 @@
 
 <H3>Welcome to my Github portfolio! </H3> 
 
-I am a FrontEnd Web Developer, based in Vienna. 
+I am working on my skills as a developer. I am based in Vienna. 
 
-Working with React, Next.js, JavaScript, HTML5/CSS (fascinated by everything that's CSS related), PostgreSQL and other relevant technologies.
+Learning and improving my skills in HTML5/CSS, JavaScript, React, Next.js, PostgreSQL and other relevant technologies.
+STarted recently learning Python and I have to say that I am enjoying it really much.
 
 <hr/>
 
