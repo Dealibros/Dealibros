@@ -15,7 +15,7 @@ Started recently learning Python and I have to say that I am enjoying it really 
 
 - 🎓 Enjoy trying to learn something new every day,<br/>
 
-- :airplane: Travel, <br/>
+- :airplane: To travel, <br/>
 
 - ✍️ To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
 
