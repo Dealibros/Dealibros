@@ -19,34 +19,6 @@ I am based in Vienna.<br>
 <br>
 📬 Get in Touch E-mail: dealibros88@gmail.com <br><br>
 💬 Speak spanish, english and german.<br>
-
-  
-<hr/>
-<h2>Hello, I'm Andrea (Dea) 👋 </h2>
-<H3>Welcome to my Github portfolio! </H3> 
-<h4>Expanding my knowledge as a developer. I am currently based in Vienna.</h4>
-Learning and improving my skills in HTML5/CSS3, JavaScript, React, Next.js, PostgreSQL and other relevant technologies.
-<br/>
-Started recently learning Python and I have to say that I am enjoying it really much.
-<hr/>
-<H3>Things I love doing when I am not coding.</H3>
-- 🎓 Enjoy trying to learn something new every day,<br/>
-
-- :airplane: To travel, <br/>
-
-- ✍️ To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
-
-- :watermelon: Anything that's food related. <br/>
-
-
-    
-          
-            
-    
-
-          
-    
-    
   
 <hr/>
 🌱 I’m currently doing a FullStack course.<br/>
