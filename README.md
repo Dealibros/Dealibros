@@ -44,7 +44,7 @@ I am based in Vienna.<br>
 </div>
 
 <div class='container'>
-<img style="height:150px; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=Dealibros&theme=default&hide_border=false" />
+<img style="height:150px; width: 100%;" class="img" src="https://visitcount.itsvg.in/api?id=Dealibros&icon=0&color=8" />
 &nbsp;
 
 </div>
