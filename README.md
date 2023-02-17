@@ -1,10 +1,10 @@
 <h1>💫 Hello, I'm Andrea (Dea) </h1>
 <H3> Welcome to my Github portfolio!</H3>
-<h4> I am expanding my knowledge as a developer on a daily basis.</h4>
-🌱 Currently finishing a intense year long FullStack developer programm.<br/>
-Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
+<h3> I am expanding my knowledge as a developer on a daily basis.</h3>
+🌱 <h3>Currently finishing a intense year long FullStack developer programm.<br/>
+Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.</h3><br>
 <br>
-I am based in Vienna.<br>
+<h3>I am based in Vienna.</h3><br>
 <hr/>
 
 <H3> Other things I love doing aside of coding.</H3>
