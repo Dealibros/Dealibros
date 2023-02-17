@@ -6,7 +6,6 @@ Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, 
 <br>
 I am based in Vienna.<br>
 
-💬 Speak spanish, english and german.<br>
       
 <hr/>
 
@@ -21,6 +20,7 @@ I am based in Vienna.<br>
 - 🍉 Anything that's food related.<br><br>
 
 📬 Get in Touch E-mail: dealibros88@gmail.com 
+💬 Speak spanish, english and german.<br>
 
   
 <hr/>
