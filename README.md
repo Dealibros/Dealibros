@@ -1,6 +1,58 @@
-# 💫 About Me:
-Expanding my knowledge as a developer on a daily basis.<br>Currently finishing a intense year long FullStack developer programm.<br>Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br><br> I am currently based in Vienna.<br>💬 Speaks spanish, english and german.<br><br>Other things I love doing aside of coding.<br>🎓 Enjoy learning about new things,<br>✈️ To travel,<br>✍️ To read anything connected to history, culture, anthropology or psychology.<br>🍉 Anything that's food related.<br><br><br>📬 Get in Touch E-mail: dealibros88@gmail.com
+# 💫 Hello, I'm Andrea (Dea)
+<H3>Welcome to my Github portfolio!
+<H3>About me:</H3>
+<h4> Expanding my knowledge as a developer on a daily basis.<br>
+Currently finishing a intense year long FullStack developer programm.<br>
+Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br><br> 
+I am currently based in Vienna.<br>
 
+💬 Speaks spanish, english and german.<br><br>
+
+Other things I love doing aside of coding.<br>
+🎓 Enjoy learning about new things,<br>
+✈️ To travel,<br>
+✍️ To read anything connected to history, culture, anthropology or psychology.<br>
+🍉 Anything that's food related.<br><br><br>
+
+📬 Get in Touch E-mail: dealibros88@gmail.com </h4>
+
+
+<h2>Hello, I'm Andrea (Dea) 👋 </h2>
+<H3>Welcome to my Github portfolio! </H3> 
+<h4>Expanding my knowledge as a developer. I am currently based in Vienna.</h4>
+Learning and improving my skills in HTML5/CSS3, JavaScript, React, Next.js, PostgreSQL and other relevant technologies.
+<br/>
+Started recently learning Python and I have to say that I am enjoying it really much.
+<hr/>
+<H3>Things I love doing when I am not coding.</H3>
+- 🎓 Enjoy trying to learn something new every day,<br/>
+
+- :airplane: To travel, <br/>
+
+- ✍️ To read anything I find thats connected with history, culture, anthropology or psychology. <br/>
+
+- :watermelon: Anything that's food related. <br/>
+
+
+    
+          
+            
+    
+
+          
+    
+    
+  
+<hr/>
+🌱 I’m currently doing a FullStack course.<br/>
+<br/>
+⚙️ Mastering: .react, .next. js, .html, .css, .js, .ts . python
+<br/>                                                     
+💬 Speaks spanish, english and german.
+📬 Get in Touch
+E-mail: dealibros88@gmail.com
+<br/>
+<h3>Technologies I'm familiar with:</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrea-mikula/) 
