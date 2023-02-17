@@ -8,7 +8,7 @@ I am expanding my knowledge as a developer on a daily basis.<br/>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
 
 
-
+<br>
 💬 Speak spanish, english and german.<br>
 
 📬 Get in Touch E-mail: dealibros88@gmail.com <br>
