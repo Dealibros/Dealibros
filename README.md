@@ -1,22 +1,24 @@
 # 💫 Hello, I'm Andrea (Dea)
 <H3>Welcome to my Github portfolio!
-<H3>About me:</H3>
-<h4> Expanding my knowledge as a developer on a daily basis.<br>
+About me:</H3>
+<h4> Expanding my knowledge as a developer on a daily basis.</h4> <br>
 Currently finishing a intense year long FullStack developer programm.<br>
-Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br><br> 
-    
+Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
+   
+<hr/>
+
 I am currently based in Vienna.<br>
 💬 Speaks spanish, english and german.<br><br>
       
 <hr/>
 
-Other things I love doing aside of coding.<br>
+<H3> Other things I love doing aside of coding.</H3><br>
 🎓 Enjoy learning about new things,<br>
 ✈️ To travel,<br>
 ✍️ To read anything connected to history, culture, anthropology or psychology.<br>
 🍉 Anything that's food related.<br><br><br>
 
-📬 Get in Touch E-mail: dealibros88@gmail.com </h4>
+📬 Get in Touch E-mail: dealibros88@gmail.com 
 
   
 <hr/>
