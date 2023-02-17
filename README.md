@@ -10,10 +10,14 @@ I am based in Vienna.<br>
 <hr/>
 
 <H3> Other things I love doing aside of coding.</H3>
+
 - 🎓 Enjoy learning about new things,<br>
+
 - ✈️ To travel,<br>
+
 - ✍️ To read anything connected to history, culture, anthropology or psychology.<br>
--🍉 Anything that's food related.<br><br>
+
+- 🍉 Anything that's food related.<br><br>
 
 📬 Get in Touch E-mail: dealibros88@gmail.com 
 
