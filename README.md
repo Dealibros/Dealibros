@@ -36,6 +36,14 @@ I am based in Vienna.<br>
 
 
 ### 📊 GitHub Stats:
+
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dealibros&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
