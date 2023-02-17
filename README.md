@@ -44,10 +44,11 @@ I am based in Vienna.<br>
 </div>
 
 <div class='container'>
-<img style="height:200px; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img style="height:150px; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 &nbsp;
 </div>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Dealibros&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
