@@ -1,4 +1,4 @@
-<h2>💫 Hello, I'm Andrea (Dea) </h2>
+<h1>💫 Hello, I'm Andrea (Dea) </h1>
 <H3>Welcome to my Github portfolio!</H3>
 <h4> I am expanding my knowledge as a developer on a daily basis.</h4>
 Currently finishing a intense year long FullStack developer programm.<br/>
