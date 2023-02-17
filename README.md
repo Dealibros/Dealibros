@@ -5,8 +5,6 @@ Currently finishing a intense year long FullStack developer programm.<br/>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
 <br>
 I am based in Vienna.<br>
-
-      
 <hr/>
 
 <H3> Other things I love doing aside of coding.</H3>
@@ -17,9 +15,9 @@ I am based in Vienna.<br>
 
 - ✍️ To read anything connected to history, culture, anthropology or psychology.<br>
 
-- 🍉 Anything that's food related.<br><br>
+- 🍉 Anything that's food related.<br>
 
-📬 Get in Touch E-mail: dealibros88@gmail.com <br>
+📬 Get in Touch E-mail: dealibros88@gmail.com <br><br>
 💬 Speak spanish, english and german.<br>
 
   
