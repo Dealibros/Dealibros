@@ -17,6 +17,8 @@ I am based in Vienna.<br>
 
 - 🍉 Anything that's food related.<br>
 
+<hr/>
+
 📬 Get in Touch E-mail: dealibros88@gmail.com <br><br>
 💬 Speak spanish, english and german.<br>
   
