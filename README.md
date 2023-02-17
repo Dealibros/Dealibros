@@ -41,7 +41,7 @@ I am based in Vienna.<br>
 <img style="height:8.7rem; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
 &nbsp;
 &nbsp;
-<img style="height: 100%; width: 48%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Dealibros&theme=default&hide_border=false" /></div>
+<img style="height:8.7rem; width: 48%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Dealibros&theme=default&hide_border=false" /></div>
 </div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
