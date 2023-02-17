@@ -9,8 +9,7 @@ I am based in Vienna.<br>
       
 <hr/>
 
-<H3> Other things I love doing aside of coding.</H3>.<br>
-
+<H3> Other things I love doing aside of coding.</H3>.
 - 🎓 Enjoy learning about new things,<br>
 
 - ✈️ To travel,<br>
