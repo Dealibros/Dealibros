@@ -1,7 +1,7 @@
 <h1>💫 Hello, I'm Andrea (Dea) </h1>
 <H3>Welcome to my Github portfolio!</H3>
 <h4> I am expanding my knowledge as a developer on a daily basis.</h4>
-Currently finishing a intense year long FullStack developer programm.<br/>
+🌱 Currently finishing a intense year long FullStack developer programm.<br/>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
 <br>
 I am based in Vienna.<br>
@@ -21,13 +21,7 @@ I am based in Vienna.<br>
 💬 Speak spanish, english and german.<br>
   
 <hr/>
-🌱 I’m currently doing a FullStack course.<br/>
-<br/>
-⚙️ Mastering: .react, .next. js, .html, .css, .js, .ts . python
-<br/>                                                     
-💬 Speaks spanish, english and german.
-📬 Get in Touch
-E-mail: dealibros88@gmail.com
+
 <br/>
 <h3>Technologies I'm familiar with:</h3>
 
