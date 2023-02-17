@@ -1,12 +1,11 @@
 # 💫 Hello, I'm Andrea (Dea)
-<H3>Welcome to my Github portfolio! <br>
-About me:</H3>
+<H3>Welcome to my Github portfolio!</H3><br>
 <h4> Expanding my knowledge as a developer on a daily basis.</h4>
 Currently finishing a intense year long FullStack developer programm.<br/>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
 <br>
 I am based in Vienna.<br>
-💬 Speak spanish, english and german.<br><br>
+💬 Speak spanish, english and german.<br>
       
 <hr/>
 
