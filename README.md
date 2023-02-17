@@ -5,6 +5,7 @@ Currently finishing a intense year long FullStack developer programm.<br/>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
 <br>
 I am based in Vienna.<br>
+
 💬 Speak spanish, english and german.<br>
       
 <hr/>
