@@ -1,6 +1,6 @@
 <h1>💫 Hello, I'm Andrea (Dea) </h1>
 <H3> Welcome to my Github portfolio!</H3>
-I am expanding my knowledge as a developer on a daily basis.
+I am expanding my knowledge as a developer on a daily basis.<br/>
 🌱 Currently finishing a intense year long FullStack developer programm.<br/>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br>
 <br>
