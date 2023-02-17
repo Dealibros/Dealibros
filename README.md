@@ -16,9 +16,9 @@ I am based in Vienna.<br>
 - ✍️ To read anything connected to history, culture, anthropology or psychology.<br>
 
 - 🍉 Anything that's food related.<br>
-<br>
+
 📬 Get in Touch E-mail: dealibros88@gmail.com <br><br>
-💬 Speak spanish, english and german.<br><br>
+💬 Speak spanish, english and german.<br>
   
 <hr/>
 
