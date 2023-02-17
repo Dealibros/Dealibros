@@ -4,9 +4,11 @@
 <h4> Expanding my knowledge as a developer on a daily basis.<br>
 Currently finishing a intense year long FullStack developer programm.<br>
 Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br><br> 
+    
 I am currently based in Vienna.<br>
-
 💬 Speaks spanish, english and german.<br><br>
+      
+<hr/>
 
 Other things I love doing aside of coding.<br>
 🎓 Enjoy learning about new things,<br>
@@ -16,7 +18,8 @@ Other things I love doing aside of coding.<br>
 
 📬 Get in Touch E-mail: dealibros88@gmail.com </h4>
 
-
+  
+<hr/>
 <h2>Hello, I'm Andrea (Dea) 👋 </h2>
 <H3>Welcome to my Github portfolio! </H3> 
 <h4>Expanding my knowledge as a developer. I am currently based in Vienna.</h4>
