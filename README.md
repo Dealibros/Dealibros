@@ -18,7 +18,7 @@ I am based in Vienna.<br>
 - 🍉 Anything that's food related.<br>
 <br>
 📬 Get in Touch E-mail: dealibros88@gmail.com <br><br>
-💬 Speak spanish, english and german.<br>
+💬 Speak spanish, english and german.<br><br>
   
 <hr/>
 
@@ -47,7 +47,7 @@ I am based in Vienna.<br>
 <img style="height:150px; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dealibros&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 &nbsp;
 </div>
----
+
 
 [![](https://visitcount.itsvg.in/api?id=Dealibros&icon=0&color=8)](https://visitcount.itsvg.in)
 
