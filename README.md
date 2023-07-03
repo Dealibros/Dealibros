@@ -3,9 +3,9 @@
 
 I am expanding my knowledge as a developer on a daily basis.<br/>
 
-🌱 Currently finishing a intense year long FullStack developer programm.<br/>
+🌱 Just finished an intense year long FullStack developer programm.<br/>
 
-Experience with JavaScript, React, Java, Spring Boot, Python, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.<br
+Experience with JavaScript, React, Java, Spring Boot, Python, Flask, Next.js, Node.js, PostgreSQL, HTML5/CSS3 and a few other relevant technologies.
 
 <br>
 
